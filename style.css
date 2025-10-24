@@ -1,0 +1,41 @@
+body {
+  background-color: #d6c2b9;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+}
+
+.exercise {
+  margin-bottom: 80px;
+}
+
+.color-box,
+.text-box {
+  background-color: #d6c2b9;
+  padding: 40px;
+}
+
+input {
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #243746;
+  color: white;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.text-box p {
+  margin: 6px 0;
+}
